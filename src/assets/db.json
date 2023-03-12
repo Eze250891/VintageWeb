@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://raw.githubusercontent.com/Eze250891/Proyecto-React/main/src/graphics/imagenes/productos/leonetti_roma1.jpg",
+      "title": "leonetti arezzo",
+      "instalments": "$8.300",
+      "price": "25000",
+      "product": "https://www.leonetti.com.ar/productos/zapato-arezzo1",
+      "quantity": "0"
+    },
+    {
+      "id": 2,
+      "img": "https://raw.githubusercontent.com/Eze250891/Proyecto-React/main/src/graphics/imagenes/productos/leonetti_boris1.jpg",
+      "title": "leonetti faro",
+      "instalments": "$10.700",
+      "price": "32000",
+      "product": "https://www.leonetti.com.ar/productos/zapato-faro/",
+      "quantity": "0"
+    },
+    {
+      "id": 3,
+      "img": "https://raw.githubusercontent.com/Eze250891/Proyecto-React/main/src/graphics/imagenes/productos/leonetti_azul1.jpg",
+      "title": "leonetti azul",
+      "instalments": "$14.400",
+      "price": "43000",
+      "product": "https://www.leonetti.com.ar/productos/zapato-vicenza-azul/",
+      "quantity": "0"
+    },
+    {
+      "id": 4,
+      "img": "https://raw.githubusercontent.com/Eze250891/Proyecto-React/main/src/graphics/imagenes/productos/leonetti_carola1.jpg",
+      "title": "leonetti boris",
+      "instalments": "$17.500",
+      "price": "52500",
+      "product": "https://www.leonetti.com.ar/productos/zapato-boris/",
+      "quantity": "0"
+    },
+    {
+      "id": 5,
+      "img": "https://raw.githubusercontent.com/Eze250891/Proyecto-React/main/src/graphics/imagenes/productos/leonetti_ronald1.jpg",
+      "title": "leonetti kenai",
+      "instalments": "$18.200",
+      "price": "54500",
+      "product": "https://www.leonetti.com.ar/productos/zapato-kenai/",
+      "quantity": 0
+    }
+  ],
+  "cart": [
+    {
+      "id": 3,
+      "img": "https://raw.githubusercontent.com/Eze250891/Proyecto-React/main/src/graphics/imagenes/productos/leonetti_azul1.jpg",
+      "title": "leonetti azul",
+      "instalments": "$14.400",
+      "price": "43000",
+      "product": "https://www.leonetti.com.ar/productos/zapato-vicenza-azul/",
+      "quantity": 1
+    }
+  ]
+}
